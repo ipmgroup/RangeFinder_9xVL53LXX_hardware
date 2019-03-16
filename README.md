@@ -1,4 +1,4 @@
-This is a sensor array for ArduPilot with up to 9 VL53L0X/VL53L1X sensors.
+This is a RangeFinder sensor array for ArduPilot with up to 9 VL53L0X/VL53L1X sensors.
 
 # Usage
 0. [Only as long as the pull request is not merged into master] Build your ArduPilot with the code from the PR [#10739](https://github.com/ArduPilot/ardupilot/pull/10739)
