@@ -52,6 +52,9 @@ Parameter        | Value
 
 # Preparing for installation.
 https://youtu.be/QsDIQ4lPHv0
+
 https://youtu.be/lDLPVkdIu3o
+
 https://youtu.be/dYpx_mXiDM4
+
 https://youtu.be/QuRKrF_noZo
