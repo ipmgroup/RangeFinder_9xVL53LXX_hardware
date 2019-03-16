@@ -51,6 +51,8 @@ Parameter        | Value
 - If `_PIN` is not configured (i.e. left at the default -1), the auto-configuration will assume the default arrangement (middle sensor pointing down, the one with arrow forward) and use `_ORIENT` to determine the correct pins (the ones you see in the table above).
 
 # Preparing for installation.
+Video
+
 https://youtu.be/QsDIQ4lPHv0
 
 https://youtu.be/lDLPVkdIu3o
