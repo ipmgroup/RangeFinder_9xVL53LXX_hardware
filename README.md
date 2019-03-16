@@ -49,3 +49,9 @@ Parameter        | Value
 - The `_PIN` parameters are used together with `_ORIENT` to configure what sensors are pointing in which direction, where `_PIN` determines the pin of the IO expander that the sensor is connected to, and `_ORIENT` determines how ArduPilot interprets this direction. The above table corresponds to the correct arrangement if the main sensor is facing down, the sensor that the arrow points to (drawn on the board) shows forward, and all other sensors go straight out in their respecrive directions. If you physically arrange the sensors differently, these 2 parameters would have to be adjusted accordingly.
 - The independent configuration of `_PIN` and `_ORIENT` also means that you can have multiple sensors (say sensors on pins 1, 2, 3, 4) pointing in the same direction (for example all four forward, i.e. 0) should you want to go with such a configuration.
 - If `_PIN` is not configured (i.e. left at the default -1), the auto-configuration will assume the default arrangement (middle sensor pointing down, the one with arrow forward) and use `_ORIENT` to determine the correct pins (the ones you see in the table above).
+
+# Preparing for installation.
+https://youtu.be/QsDIQ4lPHv0
+https://youtu.be/lDLPVkdIu3o
+https://youtu.be/dYpx_mXiDM4
+https://youtu.be/QuRKrF_noZo
